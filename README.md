@@ -1,5 +1,5 @@
 # SpareBank1
-Coding task for summer internship 2020, SpareBank1
+Kodeoppgave for sommerjobb hos SpareBank1, 2020
 
 Repositoriet inneholder mitt bidrag til kodeoppgaven i forbindelse med min søknad til sommerjobb hos SpareBank1 Utvikling, sommeren 2020. Her vil en finne en Visual Studio-løsning, med to prosjekter:
 - Et klassebibliotek med funksjoner som beregner poengsum i bowling
